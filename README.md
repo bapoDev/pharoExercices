@@ -1,0 +1,2 @@
+# pharoExercices
+Exercices in Pharo
